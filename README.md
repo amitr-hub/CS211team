@@ -1,6 +1,8 @@
 # CS211team
 <<<<<<< HEAD
-
+Aleks Mitrovic - amitr
+Jd Esparza - jespa
+kai judy - kjudy
 
 
 # Profile: Jd Esparza
